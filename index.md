@@ -1,1 +1,5 @@
-# OLA!
+---
+layout: home
+---
+
+# Ola!
