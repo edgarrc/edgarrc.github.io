@@ -1,3 +1,4 @@
 title: Edgar
 description: Descrição
-theme: jekyll-theme-cayman
+theme: texture
+remote_theme: thelehhman/texture
