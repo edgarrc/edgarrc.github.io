@@ -14,5 +14,5 @@ mkdocs serve
 ### Deploy
 ```
 cd ..
-mkdocs gh-deploy --config-file src/mkdocs.yml --remote-branch master
+mkdocs gh-deploy --config-file src/mkdocs.yml --remote-branch gh-pages
 ```
