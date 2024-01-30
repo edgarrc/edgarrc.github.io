@@ -4,6 +4,6 @@ theme:
 site_url: https://edgarrc.github.io/
 nav:
   - Home: index.md
-  - About: 
-      - 'Sobre Nós': about.md
+  - Menu: 
+      - 'Submenu espace': about.md
       - Artigooox: artigos/teste.md
